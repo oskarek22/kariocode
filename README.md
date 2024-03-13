@@ -1,3 +1,2 @@
-# KarioCode, 5 sezon serwera!
+# CaseMC
 # Ceo: oskar.cc
-# V-Ceo: xFreksiooo 
